@@ -1,0 +1,24 @@
+{
+  "buttons": [
+    {
+      "active": true,
+      "text": "Coming Soon",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/3938/3938651.png",
+      "url": "https://apps.apple.com/app/id2222222222",
+    },
+    
+    {
+      "active": false,
+      "text": "Coming Soon",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/3938/3938651.png",
+      "url": "https://apps.apple.com/app/id2222222222",
+    },
+    
+    {
+      "active": false,
+      "text": "Coming Soon",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/3938/3938651.png",
+      "url": "https://apps.apple.com/app/id2222222222",
+    }
+  ]
+}
